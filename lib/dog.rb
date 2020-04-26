@@ -7,6 +7,7 @@ end
 def sit 
   puts "The Dog is sitting" 
  end
-clase Dog
+ 
+class Dog
 
 fido = Dog.new
