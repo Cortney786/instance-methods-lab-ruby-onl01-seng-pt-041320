@@ -9,4 +9,4 @@ def sit
 end
 
 
-fido.sit
+fido = Dog.new
