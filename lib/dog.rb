@@ -9,6 +9,8 @@ def sit
  end
  
 class Dog
-
+def fido 
 end
+
 fido = Dog.new
+fido.sit
