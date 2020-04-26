@@ -8,4 +8,5 @@ def sit
   puts "The Dog is sitting" 
 end 
 
-fido
+fido = Dog.new 
+fido.sit
